@@ -1,0 +1,2 @@
+J'aimerais par apprendre a toute personnes qui debut en programmation une methode de travail tres simple copier un peu sur le principe du MVC, cette technique de programmation permettra a tout developpeur de ne pas donner plus d'une fois un workflow ou un code. Ce qui lui permettra de penser qu'au amelioration de son code apres l'avoir ecris. Aussi, presenter comme le reutiliser dans d'autre projet.
+
